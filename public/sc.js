@@ -1,0 +1,1 @@
+alert("Next js lazyload");
